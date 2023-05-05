@@ -5,5 +5,6 @@ public class Main {
 
         System.out.println("Hello world!");
         System.out.println("main");
+        System.out.println("main-deneme-2");
     }
 }
